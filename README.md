@@ -1,3 +1,8 @@
+```markdown
+![Lab Status](https://img.shields.io/badge/Status-Completed-success)
+![Platform](https://img.shields.io/badge/Platform-Wazuh-blue)
+![OS](https://img.shields.io/badge/OS-Ubuntu-orange)
+```
 # Hi there, I'm Karan Singh Samant 👋
 
 ## 🛡️ Cybersecurity Enthusiast | SOC Analyst | Blue Team
